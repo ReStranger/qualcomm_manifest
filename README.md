@@ -6,7 +6,7 @@ Used tag: LA.VENDOR.13.2.1.r1-13800-DIVAR.QSSI16.0
 - Init
 
 ```
-repo init -u https://github.com/ReStranger/qualcomm_manifest -b AU_LINUX_KERNEL.PLATFORM.2.0.R1.00.00.00.004.205 -g default,-mips,-darwin,-notdefault
+repo init -u https://github.com/ReStranger/qualcomm_manifest -b upstream -g default,-mips,-darwin,-notdefault
 ```
 
 - Sync
